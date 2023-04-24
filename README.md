@@ -11,3 +11,5 @@ Criei esse repositório com intuito de colocar todos os projetos realizados no b
 - [Script IAC](https://github.com/mariarithanascimento/bootcamp-aws/tree/main/Script-criacao%20linux)
 
 - [Serverless Framework](https://github.com/mariarithanascimento/bootcamp-aws/tree/main/Serverless%20Framework%20na%20AWS)
+
+- [Projeto Cognito](https://github.com/mariarithanascimento/bootcamp-aws/tree/main/projeto-cognito)
